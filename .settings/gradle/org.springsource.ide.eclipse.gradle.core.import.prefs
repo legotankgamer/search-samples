@@ -6,5 +6,5 @@ beforeTasks=cleanEclipse;eclipse;
 enableAfterTasks=true
 enableBeforeTasks=true
 enableDSLD=false
-enableDependendencyManagement=true
+enableDependendencyManagement=false
 projects=
